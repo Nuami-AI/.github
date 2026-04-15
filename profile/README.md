@@ -90,4 +90,4 @@ style: 버튼 색상 변경
 
 ---
 
-<p align="center">Made with ❤️ by [Organization Name] Team</p>
+<p align="center">Made with ❤️ by Nuami-AI Team</p>
